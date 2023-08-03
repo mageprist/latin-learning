@@ -1,0 +1,57 @@
+% Nominative Genitive Dative Accusative Ablative
+--- Personal pronouns 1:st person ---
+I: ego mei mihi me me
+We: nos nostri nobis nos nobis
+Reflexive: - sui sibi se se
+
+--- Personal pronouns 2:nd person ---
+You: tu tui tibi te te
+They: vos vestri vobis vos vobis
+
+--- Personal pronouns 3:rd person ---
+He: is eius ei eum eo
+She: ea eius ei eam ea
+It: id eius ei id eo
+He (plural): ii eorum iis eos iis
+She (plural): eae earum iis eas iis
+It (plural): ea eorum iis ea iis
+
+--- This ---
+Masc.: hic huius huic hunc hoc
+Fem.: haec huius huic hanc hac
+Neut.: hoc huius huic hoc hoc
+Masc. (plural): hi horum his hos his
+Fem. (plural): hae harum his has his
+Neut. (plural): haec horum his haec his
+
+--- That ---
+Masc.: ille illius illi illum illo
+Fem.: illa illius illi illam illa
+Neut.: illud illius illi illud illo
+Masc. (plural): illi illorum illis illos illis
+Fem. (plural): illae illarum illis illas illis
+Neut. (plural): illa illorum illis illa illis
+
+--- Relative Who, which ---
+Masc.: qui cuius cui quem quo
+Masc. (plural): qui quorum quibus quos quibus
+Fem.: quae cuius cui quam qua
+Fem. (plural): quae quarum quibus quas quibus
+Neut.: quod cuius cui quod quo
+Neut. (plural): quae quorum quibus quae quibus
+
+--- Interrogaive Who ---
+Masc., Fem.: quis cuius cui quem quo
+Masc. (plural): qui quorum quibus quos quibus
+Fem. (plural): quae quarum quibus quas quibus
+Neut.: quid cuius cui quid quo
+Neut. (plural): quae quorum quibus quae quibus
+
+--- Intensive himself ---
+Masc. ipse ipsius ipsi ipsum ipso
+Masc. (plural): ipsi ipsorum ipsis ipsos ipsis
+Fem.: ipsa ipsius ipsi ipsam ipsa
+Fem. (plural): ipsae ipsarum ipsis ipsas ipsis
+Neut.: ipsum ipsius ipsi ipsum ipso
+Neut. (plural): ipsa ipsorum ipsis ipsa ipsis
+

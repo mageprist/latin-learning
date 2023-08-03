@@ -1,8 +1,0 @@
-% Nominative Genitive Dative Accusative Ablative
---- Personal pronouns ---
-He: is eius ei eum eo
-She: ea eius ei eam ea
-It: id eius ei id eo
-He (plural): ii eorum iis eos iis
-She (plural): eae earum iis eas iis
-It (plural): ea eorum iis ea iis
