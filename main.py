@@ -2,14 +2,16 @@
 import os
 import curses
 
+PATH = os.path.dirname(os.path.abspath(__file__))
+
 class File():
     def __init__(self):
         self.init_screen()
         self.y = 0
         self.x = 0
         res = []
-        for path in os.listdir(f"{os.getcwd()}/lists/"):
-            if os.path.isfile(os.path.join(f"{os.getcwd()}/lists/", path)):
+        for path in os.listdir(f"{PATH}/lists/"):
+            if os.path.isfile(os.path.join(f"{PATH}/lists/", path)):
                 res.append(path)
 
         res.sort()
@@ -174,7 +176,7 @@ class File():
     def load_file(self, file):
         key = []
         words = []
-        f = open(f"{os.getcwd()}/lists/" + file, "r", encoding="UTF-8")
+        f = open(f"{PATH}/lists/" + file, "r", encoding="UTF-8")
         current = -1
         for x in f:
             if "%" in x:
